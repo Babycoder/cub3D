@@ -1,6 +1,6 @@
 # Cub3D
 
-Projet 42 inspiré du jeu Wolfenstein 3D permettant d'explorer les techniques du ray-casting et les mathématiques appliqués.
+Projet 1337 inspiré du jeu Wolfenstein 3D permettant d'explorer les techniques du ray-casting et les mathématiques appliqués.
 
 ## Objectif
 
@@ -12,16 +12,15 @@ Il permettra d’explorer la technique du ray-casting. L'objectif est de faire u
 
 ```
 make
-./Cub3D ./path/to/map.cub
-```
-
-ou
+./cub3D ./path/to/map.cub
 
 ```
-make
-./Cub3D ./path/to/map.cub --save
-```
+
+# Screenshot
+
+<img width="851" alt="screen3d" src="https://user-images.githubusercontent.com/57048419/157107329-94f82a5b-0e88-4f9c-9146-84d96ac8a140.png">
+
 
 ## Author
 
-mrouabeh - 2020
+Aymen GHAZALI - aka Ezio
